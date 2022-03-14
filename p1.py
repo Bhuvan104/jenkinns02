@@ -1,4 +1,4 @@
 def fun1():
-    print("Bhuvan Kumar")
+    print("Master")
 for i in range(10):
     fun1()
