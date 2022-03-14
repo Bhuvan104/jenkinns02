@@ -1,3 +1,4 @@
 def fun1():
     print("Bhuvan Kumar")
-fun1()
+for i in range(10):
+    fun1()
